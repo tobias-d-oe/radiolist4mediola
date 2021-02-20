@@ -1,0 +1,741 @@
+
+{
+"sender": [
+    {
+      "name": "Kiss FM",
+      "url": "https://live.kissfm.ro/kissfm.aacp",
+      "icon": "./logos/radio/kissfmro.png",
+      "lang": "Romania"
+    },{
+      "name": "Magic FM",
+      "url": "https://live.magicfm.ro/magicfm.aacp",
+      "icon": "./logos/radio/magicfmro.png",
+      "lang": "Romania"
+    },{
+      "name": "Pro FM",
+      "url": "http://www.profm.ro/static/radio/winamp/profm.m3u",
+      "icon": "./logos/radio/profmro.png",
+      "lang": "Romania"
+    },{
+      "name": "Pro FM Oldies",
+      "url": "http://stream.profm.ro:8222/oldies.mp3.m3u",
+      "icon": "./logos/radio/profmoldies.png",
+      "lang": "Romania"
+    },{
+      "name": "HITRADIO RT1",
+      "url": "https://rt1-live.cast.addradio.de/rt1/live/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/HITRADIO_RT1.png",
+      "lang": "Deutsch"
+},{
+      "name": "BAYERN 1 - Schwaben",
+      "url": "https://addrad.io/4WRDfg",
+      "icon": "./logos/radio/BAYERN_1_-_Schwaben.png",
+      "lang": "Deutsch"
+},{
+      "name": "DONAU 3 FM",
+      "url": "https://addrad.io/4454yqp",
+      "icon": "./logos/radio/DONAU_3_FM.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio 7",
+      "url": "https://frontend01.lb.streamonkey.net/radio7-ulm?aggregator=radiode",
+      "icon": "./logos/radio/Radio_7.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio Fantasy",
+      "url": "https://s35.derstream.net/fantasy.mp3",
+      "icon": "./logos/radio/Radio_Fantasy.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio 7 - Aalen",
+      "url": "https://frontend01.lb.streamonkey.net/radio7-aalen?aggregator=radiode",
+      "icon": "./logos/radio/Radio_7_-_Aalen.png",
+      "lang": "Deutsch"
+},{
+      "name": "HITRADIO RT1 NORDSCHWABEN",
+      "url": "https://rt1-nordschwaben.cast.addradio.de/rt1/nordschwaben/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/HITRADIO_RT1_NORDSCHWABEN.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio Augsburg",
+      "url": "http://stream.radio-augsburg.de/radioaugsburg.mp3",
+      "icon": "./logos/radio/Radio_Augsburg.png",
+      "lang": "Deutsch"
+},{
+      "name": "RADIO SCHWABEN",
+      "url": "https://s37.derstream.net/radioschwaben.mp3",
+      "icon": "./logos/radio/RADIO_SCHWABEN.png",
+      "lang": "Deutsch"
+},{
+      "name": "HITRADIO RT1 SÜDSCHWABEN",
+      "url": "https://rt1-suedschwaben.cast.addradio.de/rt1/suedschwaben/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/HITRADIO_RT1_SUDSCHWABEN.png",
+      "lang": "Deutsch"
+},{
+      "name": "SMART RADIO",
+      "url": "https://stream.glueckserver.de:8000/smartradio.mp3",
+      "icon": "./logos/radio/SMART_RADIO.png",
+      "lang": "Deutsch"
+},{
+      "name": "LA ROCKS RADIO ",
+      "url": "https://s7.streamcaster.eu:8212/stream/1/",
+      "icon": "./logos/radio/LA_ROCKS_RADIO_.png",
+      "lang": "Deutsch"
+},{
+      "name": "Klassik Radio - Opera",
+      "url": "https://stream.klassikradio.de/opera/mp3-128/radiode/",
+      "icon": "./logos/radio/Klassik_Radio_-_Opera.png",
+      "lang": "Deutsch"
+},{
+      "name": "Klassik Radio - Movie",
+      "url": "https://stream.klassikradio.de/movie/mp3-128/radiode/",
+      "icon": "./logos/radio/Klassik_Radio_-_Movie.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 IN THE MIX ",
+      "url": "https://rt1-inthemix.cast.addradio.de/rt1/inthemix/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_IN_THE_MIX_.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 RELAX",
+      "url": "https://rt1-relax.cast.addradio.de/rt1/relax/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_RELAX.png",
+      "lang": "Deutsch"
+},{
+      "name": "Klassik Radio - Lounge",
+      "url": "https://stream.klassikradio.de/lounge/mp3-128/radiode/",
+      "icon": "./logos/radio/Klassik_Radio_-_Lounge.png",
+      "lang": "Deutsch"
+},{
+      "name": "Maretimo Lounge Radio",
+      "url": "https://s35.derstream.net/lounge.mp3",
+      "icon": "./logos/radio/Maretimo_Lounge_Radio.png",
+      "lang": "Deutsch"
+},{
+      "name": "DJ IN THE MIX",
+      "url": "https://toneart.radiostudio.de/toneartdj",
+      "icon": "./logos/radio/DJ_IN_THE_MIX.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio Siebenbuergen",
+      "url": "http://radio-siebenbuergen.de:8000/stream/1/",
+      "icon": "./logos/radio/Radio_Siebenbuergen.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 80s",
+      "url": "https://rt1-80s.cast.addradio.de/rt1/80s/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_80s.png",
+      "lang": "Deutsch"
+},{
+      "name": "Rastamusic",
+      "url": "https://66.225.205.4:80/",
+      "icon": "./logos/radio/Rastamusic.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 BLACK",
+      "url": "https://rt1-black.cast.addradio.de/rt1/black/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_BLACK.png",
+      "lang": "Deutsch"
+},{
+      "name": "trance",
+      "url": "https://stream.laut.fm/trance?ref=radiode",
+      "icon": "./logos/radio/trance.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 LOUNGE",
+      "url": "https://rt1-lounge.cast.addradio.de/rt1/lounge/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_LOUNGE.png",
+      "lang": "Deutsch"
+},{
+      "name": "antennne",
+      "url": "https://stream.laut.fm/antennne?ref=radiode",
+      "icon": "./logos/radio/antennne.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 CHILLHOUSE",
+      "url": "https://rt1-chillhouse.cast.addradio.de/rt1/chillhouse/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_CHILLHOUSE.png",
+      "lang": "Deutsch"
+},{
+      "name": "DONAU 3 FM Jukebox",
+      "url": "https://donau3fm.stream.vip/6/mp3-192/",
+      "icon": "./logos/radio/DONAU_3_FM_Jukebox.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 OLDIES",
+      "url": "https://rt1-oldies.cast.addradio.de/rt1/oldies/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_OLDIES.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 90s",
+      "url": "https://rt1-90s.cast.addradio.de/rt1/90s/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_90s.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 EURODANCE",
+      "url": "https://rt1-eurodance.cast.addradio.de/rt1/eurodance/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_EURODANCE.png",
+      "lang": "Deutsch"
+},{
+      "name": "Mega Radio Bayern",
+      "url": "https://stream.megaradio.bayern:5252",
+      "icon": "./logos/radio/Mega_Radio_Bayern.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 DANCE",
+      "url": "https://rt1-dance.cast.addradio.de/rt1/dance/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_DANCE.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 FUNK",
+      "url": "https://rt1-funk.cast.addradio.de/rt1/funk/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_FUNK.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 WEEKEND",
+      "url": "https://rt1-weekend.cast.addradio.de/rt1/weekend/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_WEEKEND.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio 7 - Mixshow",
+      "url": "https://frontend01.lb.streamonkey.net/radio7-mixshow?aggregator=radiode",
+      "icon": "./logos/radio/Radio_7_-_Mixshow.png",
+      "lang": "Deutsch"
+},{
+      "name": "Mega Radio 80s",
+      "url": "http://stream.mega80s.de:6262 ",
+      "icon": "./logos/radio/Mega_Radio_80s.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 SOUNDTRACK",
+      "url": "https://rt1-ch26.cast.addradio.de/rt1/ch26/mp3/high?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_SOUNDTRACK.png",
+      "lang": "Deutsch"
+},{
+      "name": "electronicsundown",
+      "url": "https://stream.laut.fm/electronicsundown?ref=radiode",
+      "icon": "./logos/radio/electronicsundown.png",
+      "lang": "Deutsch"
+},{
+      "name": "Maretimo House Radio",
+      "url": "https://s35.derstream.net/house.mp3",
+      "icon": "./logos/radio/Maretimo_House_Radio.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio Hamlar",
+      "url": "https://stream.laut.fm/radiohamlar?ref=radiode",
+      "icon": "./logos/radio/Radio_Hamlar.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 TOP 40",
+      "url": "https://rt1-top40.cast.addradio.de/rt1/top40/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_TOP_40.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 POWER WORKOUT",
+      "url": "https://rt1-powerworkout.cast.addradio.de/rt1/powerworkout/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_POWER_WORKOUT.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 NUMBER ONES",
+      "url": "https://rt1-numberones.cast.addradio.de/rt1/numberones/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_NUMBER_ONES.png",
+      "lang": "Deutsch"
+},{
+      "name": "Sunray-FM",
+      "url": "https://radio.sunray-fm.de/live.mp3",
+      "icon": "./logos/radio/Sunray-FM.png",
+      "lang": "Deutsch"
+},{
+      "name": "Soundtracks FM",
+      "url": "https://stream.laut.fm/soundtracksfm?ref=radiode",
+      "icon": "./logos/radio/Soundtracks_FM.png",
+      "lang": "Deutsch"
+},{
+      "name": "justclub",
+      "url": "https://stream.laut.fm/justclub?ref=radiode",
+      "icon": "./logos/radio/justclub.png",
+      "lang": "Deutsch"
+},{
+      "name": "partyundapresski",
+      "url": "https://stream.laut.fm/partyundapresski?ref=radiode",
+      "icon": "./logos/radio/partyundapresski.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio Fantasy Classix",
+      "url": "https://s35.derstream.net/fantasyclassix.mp3",
+      "icon": "./logos/radio/Radio_Fantasy_Classix.png",
+      "lang": "Deutsch"
+},{
+      "name": "RT1 KIDS",
+      "url": "https://rt1-kids.cast.addradio.de/rt1/kids/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de",
+      "icon": "./logos/radio/RT1_KIDS.png",
+      "lang": "Deutsch"
+},{
+      "name": "Maretimo Funky Radio",
+      "url": "https://s35.derstream.net/funkyradio.mp3",
+      "icon": "./logos/radio/Maretimo_Funky_Radio.png",
+      "lang": "Deutsch"
+},{
+      "name": "discoanddance",
+      "url": "https://stream.laut.fm/discoanddance?ref=radiode",
+      "icon": "./logos/radio/discoanddance.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio free FM",
+      "url": "https://stream.freefm.de:7000/Studio",
+      "icon": "./logos/radio/Radio_free_FM.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio Schattenwelt",
+      "url": "https://ssl.script24.net:10024/stream/1/",
+      "icon": "./logos/radio/Radio_Schattenwelt.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio 7 - 90er",
+      "url": "https://frontend01.lb.streamonkey.net/radio7-90er?aggregator=radiode",
+      "icon": "./logos/radio/Radio_7_-_90er.png",
+      "lang": "Deutsch"
+},{
+      "name": "radio-biene",
+      "url": "https://r1.gold-stream.de:6800/",
+      "icon": "./logos/radio/radio-biene.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio Blaubeuren",
+      "url": "http://blaubeuren.sunray-fm.de/live.mp3",
+      "icon": "./logos/radio/Radio_Blaubeuren.png",
+      "lang": "Deutsch"
+},{
+      "name": "Campuswelle Uni Ulm",
+      "url": "https://campuswelle.uni-ulm.de:8000/stream/1/",
+      "icon": "./logos/radio/Campuswelle_Uni_Ulm.png",
+      "lang": "Deutsch"
+},{
+      "name": "DONAU 3 FM 80er",
+      "url": "https://donau3fm.stream.vip/2/mp3-192/",
+      "icon": "./logos/radio/DONAU_3_FM_80er.png",
+      "lang": "Deutsch"
+},{
+      "name": "DONAU 3 FM 90er",
+      "url": "http://donau3fm.stream.vip/4/mp3-192/",
+      "icon": "./logos/radio/DONAU_3_FM_90er.png",
+      "lang": "Deutsch"
+},{
+      "name": "DONAU 3 FM Deutsche Hits",
+      "url": "http://donau3fm.stream.vip/5/mp3-192/",
+      "icon": "./logos/radio/DONAU_3_FM_Deutsche_Hits.png",
+      "lang": "Deutsch"
+},{
+      "name": "DONAU 3 FM Rock",
+      "url": "https://donau3fm.stream.vip/1/mp3-192/",
+      "icon": "./logos/radio/DONAU_3_FM_Rock.png",
+      "lang": "Deutsch"
+},{
+      "name": "Eventradio-Schwaben",
+      "url": "https://streamplus27.leonex.de:12734",
+      "icon": "./logos/radio/Eventradio-Schwaben.png",
+      "lang": "Deutsch"
+},{
+      "name": "Gaming24",
+      "url": "https://stream.laut.fm/gaming24?ref=radiode",
+      "icon": "./logos/radio/Gaming24.png",
+      "lang": "Deutsch"
+},{
+      "name": "GuggliFox",
+      "url": "https://www.radio-siebenbuergen.de:8080/stream/1/",
+      "icon": "./logos/radio/GuggliFox.png",
+      "lang": "Deutsch"
+},{
+      "name": "HitRadioTop100 - Clubstream",
+      "url": "https://listen.radionomy.com/hitradiotop100-clubstream.m3u",
+      "icon": "./logos/radio/HitRadioTop100_-_Clubstream.png",
+      "lang": "Deutsch"
+},{
+      "name": "HitRadioTop100",
+      "url": "https://listen.radionomy.com/hitradiotop100.m3u",
+      "icon": "./logos/radio/HitRadioTop100.png",
+      "lang": "Deutsch"
+},{
+      "name": "Illertal FM ",
+      "url": "http://0-24-illertalfm.de:8006/stream/1/",
+      "icon": "./logos/radio/Illertal_FM_.png",
+      "lang": "Deutsch"
+},{
+      "name": "IRD RADIO ",
+      "url": "https://s2.webradio-stream.de:8300",
+      "icon": "./logos/radio/IRD_RADIO_.png",
+      "lang": "Deutsch"
+},{
+      "name": "500",
+      "url": "http://stream.laut.fm/500?ref=radiode",
+      "icon": "./logos/radio/500.png",
+      "lang": "Deutsch"
+},{
+      "name": "Antenne Meitingen",
+      "url": "https://stream.laut.fm/antennne?ref=radiode",
+      "icon": "./logos/radio/Antenne_Meitingen.png",
+      "lang": "Deutsch"
+},{
+      "name": "BattiFM - Der Oldiesender",
+      "url": "https://stream.laut.fm/battifm?ref=radiode",
+      "icon": "./logos/radio/BattiFM_-_Der_Oldiesender.png",
+      "lang": "Deutsch"
+},{
+      "name": "Batti FM - Das Schlagerradio",
+      "url": "https://stream.laut.fm/battifm-dasschlagerradio?ref=radiode",
+      "icon": "./logos/radio/Batti_FM_-_Das_Schlagerradio.png",
+      "lang": "Deutsch"
+},{
+      "name": "BAVARIAS-80TH",
+      "url": "https://stream.laut.fm/bavarias-80th?ref=radiode",
+      "icon": "./logos/radio/BAVARIAS-80TH.png",
+      "lang": "Deutsch"
+},{
+      "name": "Bavarias Best Ballads",
+      "url": "https://stream.laut.fm/bavarias-best-ballads?ref=radiode",
+      "icon": "./logos/radio/Bavarias_Best_Ballads.png",
+      "lang": "Deutsch"
+},{
+      "name": "Bavarias-Rock-Ballads",
+      "url": "https://stream.laut.fm/bavarias-rock-ballads?ref=radiode",
+      "icon": "./logos/radio/Bavarias-Rock-Ballads.png",
+      "lang": "Deutsch"
+},{
+      "name": "BlueMoonLagune",
+      "url": "https://stream.laut.fm/bluemoonlagune?ref=radiode",
+      "icon": "./logos/radio/BlueMoonLagune.png",
+      "lang": "Deutsch"
+},{
+      "name": "buzzcharts",
+      "url": "https://stream.laut.fm/buzzcharts?ref=radiode",
+      "icon": "./logos/radio/buzzcharts.png",
+      "lang": "Deutsch"
+},{
+      "name": "chiliguerilla",
+      "url": "https://stream.laut.fm/chiliguerilla?ref=radiode",
+      "icon": "./logos/radio/chiliguerilla.png",
+      "lang": "Deutsch"
+},{
+      "name": "clubclassics",
+      "url": "https://stream.laut.fm/clubclassics?ref=radiode",
+      "icon": "./logos/radio/clubclassics.png",
+      "lang": "Deutsch"
+},{
+      "name": "corbili44",
+      "url": "https://stream.laut.fm/corbili44?ref=radiode",
+      "icon": "./logos/radio/corbili44.png",
+      "lang": "Deutsch"
+},{
+      "name": "desko-fm",
+      "url": "https://stream.laut.fm/desko-fm?ref=radiode",
+      "icon": "./logos/radio/desko-fm.png",
+      "lang": "Deutsch"
+},{
+      "name": "discofoxundschlager",
+      "url": "https://stream.laut.fm/discofoxundschlager?ref=radiode",
+      "icon": "./logos/radio/discofoxundschlager.png",
+      "lang": "Deutsch"
+},{
+      "name": "djane_caro_97",
+      "url": "https://stream.laut.fm/djane_caro_97?ref=radiode",
+      "icon": "./logos/radio/djane_caro_97.png",
+      "lang": "Deutsch"
+},{
+      "name": "djsantiago",
+      "url": "https://stream.laut.fm/djsantiago?ref=radiode",
+      "icon": "./logos/radio/djsantiago.png",
+      "lang": "Deutsch"
+},{
+      "name": "donauwelle",
+      "url": "https://stream.laut.fm/donauwelle?ref=radiode",
+      "icon": "./logos/radio/donauwelle.png",
+      "lang": "Deutsch"
+},{
+      "name": "DroptechRadio",
+      "url": "https://stream.laut.fm/droptechradio?ref=radiode",
+      "icon": "./logos/radio/DroptechRadio.png",
+      "lang": "Deutsch"
+},{
+      "name": "euro1",
+      "url": "https://stream.laut.fm/euro1?ref=radiode",
+      "icon": "./logos/radio/euro1.png",
+      "lang": "Deutsch"
+},{
+      "name": "fosterchild ",
+      "url": "https://stream.laut.fm/fosterchild?ref=radiode",
+      "icon": "./logos/radio/fosterchild_.png",
+      "lang": "Deutsch"
+},{
+      "name": "grafikbug",
+      "url": "https://stream.laut.fm/grafikbug?ref=radiode",
+      "icon": "./logos/radio/grafikbug.png",
+      "lang": "Deutsch"
+},{
+      "name": "gyfdthuijibf",
+      "url": "https://stream.laut.fm/gyfdthuijibf?ref=radiode",
+      "icon": "./logos/radio/gyfdthuijibf.png",
+      "lang": "Deutsch"
+},{
+      "name": "Halloween Hit Radio",
+      "url": "https://stream.laut.fm/halloween-hit-radio?ref=radiode",
+      "icon": "./logos/radio/Halloween_Hit_Radio.png",
+      "lang": "Deutsch"
+},{
+      "name": "hardstyleLEGION",
+      "url": "https://stream.laut.fm/hardstylelegion?ref=radiode",
+      "icon": "./logos/radio/hardstyleLEGION.png",
+      "lang": "Deutsch"
+},{
+      "name": "Hitradio 4 Ever",
+      "url": "https://stream.laut.fm/hitradio4ever?ref=radiode",
+      "icon": "./logos/radio/Hitradio_4_Ever.png",
+      "lang": "Deutsch"
+},{
+      "name": "HouseTownRadio",
+      "url": "https://stream.laut.fm/housetownradio?ref=radiode",
+      "icon": "./logos/radio/HouseTownRadio.png",
+      "lang": "Deutsch"
+},{
+      "name": "illerpowercharity",
+      "url": "https://stream.laut.fm/illerpowercharity?ref=radiode",
+      "icon": "./logos/radio/illerpowercharity.png",
+      "lang": "Deutsch"
+},{
+      "name": "independent-radio-trier",
+      "url": "https://stream.laut.fm/independent-radio-trier?ref=radiode",
+      "icon": "./logos/radio/independent-radio-trier.png",
+      "lang": "Deutsch"
+},{
+      "name": "-knut-hotbeats",
+      "url": "https://stream.laut.fm/-knut-hotbeats?ref=radiode",
+      "icon": "./logos/radio/-knut-hotbeats.png",
+      "lang": "Deutsch"
+},{
+      "name": "main",
+      "url": "https://stream.laut.fm/main?ref=radiode",
+      "icon": "./logos/radio/main.png",
+      "lang": "Deutsch"
+},{
+      "name": "megafun",
+      "url": "https://stream.laut.fm/megafun?ref=radiode",
+      "icon": "./logos/radio/megafun.png",
+      "lang": "Deutsch"
+},{
+      "name": "Radio Zu",
+      "url": "https://ivm.antenaplay.ro/liveaudio/radiozu/playlist.m3u8",
+      "icon": "./logos/radio/zu.png",
+      "lang": "Romania"
+},{
+      "name": "Kiss FM (București)",
+      "url": "http://live.kissfm.ro:9128/kissfm.aacp",
+      "icon": "./logos/radio/kiss-fm.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Europa FM (București)",
+      "url": "https://astreaming.edi.ro:8443/EuropaFM_aac",
+      "icon": "./logos/radio/europa-fm.png",
+      "lang": "Romania"
+},{
+      "name": "Magic FM",
+      "url": "http://live.magicfm.ro:9128/magicfm.aacp",
+      "icon": "./logos/radio/magic-fm.png",
+      "lang": "Romania"
+},{
+      "name": "Pro FM",
+      "url": "https://www.profm.ro/radio/profm",
+      "icon": "./logos/radio/pro-fm.png",
+      "lang": "Romania"
+},{
+      "name": "Virgin Radio (București)",
+      "url": "http://astreaming.virginradio.ro:8000/virgin_aacp_64k.m3u",
+      "icon": "./logos/radio/virgin.png",
+      "lang": "Romania"
+},{
+      "name": "Rock FM (București)",
+      "url": "http://live.rockfm.ro:9128/rockfm.aacp",
+      "icon": "./logos/radio/rock-fm.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Guerrilla (București)",
+      "url": "http://live.guerrillaradio.ro:8010/guerrilla.aac.m3u",
+      "icon": "./logos/radio/guerrilla-bucuresti.png",
+      "lang": "Romania"
+},{
+      "name": "Dance FM",
+      "url": "https://www.dancefm.ro/",
+      "icon": "./logos/radio/dance-fm.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Prahova",
+      "url": "https://livestream.ro/rphonline/indexfb.php?radio=fm",
+      "icon": "./logos/radio/prahova.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Romania Antena Satelor",
+      "url": "https://www.antenasatelor.ro/",
+      "icon": "./logos/radio/romania-antena-satelor.png",
+      "lang": "Romania"
+},{
+      "name": "Radio România Actualități (București)",
+      "url": "http://www.romania-actualitati.ro/",
+      "icon": "./logos/radio/romania-actualitati.png",
+      "lang": "Romania"
+},{
+      "name": "Tananana",
+      "url": "http://live.tananana.ro:8010/stream-48.aac.m3u",
+      "icon": "./logos/radio/tananana.png",
+      "lang": "Romania"
+},{
+      "name": "One FM",
+      "url": "https://live.onefm.ro/onefm.aacp",
+      "icon": "./logos/radio/one-fm.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Gold FM",
+      "url": "http://80.86.106.110:8020/radiogoldfm-32.aac.m3u",
+      "icon": "./logos/radio/gold-fm.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Manele",
+      "url": "https://fmradiomanele.ro/",
+      "icon": "./logos/radio/manele.png",
+      "lang": "Romania"
+},{
+      "name": "Radio România Cultural (București)",
+      "url": "https://radioromaniacultural.ro/",
+      "icon": "./logos/radio/romania-cultural.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Vibe",
+      "url": "http://astreaming.vibefm.ro:8000/vibefm_aacp48k.m3u",
+      "icon": "./logos/radio/vibe.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Impuls (Cluj Napoca)",
+      "url": "https://radioimpuls.ro/asculta-live/",
+      "icon": "./logos/radio/impuls-cluj-napoca.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Focus FM",
+      "url": "http://live.focusfm.ro:8000/listen.pls?sid=1",
+      "icon": "./logos/radio/focus-fm.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Super FM (Brasov)",
+      "url": "https://live.superfm.ro/",
+      "icon": "./logos/radio/super-fm.png",
+      "lang": "Romania"
+},{
+      "name": "Radio România Muzical",
+      "url": "https://www.romania-muzical.ro/browser-player.htm",
+      "icon": "./logos/radio/romania-muzical.png",
+      "lang": "Romania"
+},{
+      "name": "Smart Radio (București)",
+      "url": "http://live.smartradio.ro:9128/live.m3u",
+      "icon": "./logos/radio/smart.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Trinitas (București)",
+      "url": "http://live.radiotrinitas.ro:8000/listen.pls",
+      "icon": "./logos/radio/trinitas.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Ciresarii",
+      "url": "https://www.ciresarii.ro/",
+      "icon": "./logos/radio/ciresarii.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Reşiţa",
+      "url": "https://www.radioresita.ro/",
+      "icon": "./logos/radio/resita.png",
+      "lang": "Romania"
+},{
+      "name": "Sport Total FM (București)",
+      "url": "https://sptfm.ro/online-player/play-html5.php",
+      "icon": "./logos/radio/sport-total.png",
+      "lang": "Romania"
+},{
+      "name": "FM Radio Manele",
+      "url": "https://fmradiomanele.ro/asculta-live/",
+      "icon": "./logos/radio/fm-manele.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Iaşi",
+      "url": "http://www.radioiasi.ro/asculta-live/",
+      "icon": "./logos/radio/romania-iasi.png",
+      "lang": "Romania"
+},{
+      "name": "Paprika Rádió (Kolozsvar)",
+      "url": "https://www.paprikaradio.ro/",
+      "icon": "./logos/radio/paprika.png",
+      "lang": "Romania"
+},{
+      "name": "City Radio",
+      "url": "https://tunein.com/embed/player/s95541/?background=dark",
+      "icon": "./logos/radio/city-satu-mare.png",
+      "lang": "Romania"
+},{
+      "name": "RVE Oradea",
+      "url": "https://rve-oradea.ro/",
+      "icon": "./logos/radio/vocea-evangheliei-oradea.png",
+      "lang": "Romania"
+},{
+      "name": "National FM (București)",
+      "url": "http://live2.nationalfm.ro:8001/listen.pls",
+      "icon": "./logos/radio/national-bucuresti.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Timişoara",
+      "url": "http://www.radiotimisoara.ro/asculta/",
+      "icon": "./logos/radio/timisoara.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Constanţa",
+      "url": "http://www.radioconstanta.ro/asculta-live/",
+      "icon": "./logos/radio/constanta.png",
+      "lang": "Romania"
+},{
+      "name": "Rfi FM",
+      "url": "http://asculta.rfi.ro:9128/live.aac.m3u",
+      "icon": "./logos/radio/rfi.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Bucureşti FM",
+      "url": "http://www.bucurestifm.ro/asculta-live/",
+      "icon": "./logos/radio/bucuresti.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Deea (București)",
+      "url": "https://radiocdn.nxthost.com/radio-deea",
+      "icon": "./logos/radio/deea.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Intens (București)",
+      "url": "https://www.radiointens.ro/",
+      "icon": "./logos/radio/intens.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Gaga (Targu Mures)",
+      "url": "http://www.radiogaga.ro/",
+      "icon": "./logos/radio/gaga.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Cluj",
+      "url": "http://www.radiocluj.ro/asculta-live/",
+      "icon": "./logos/radio/cluj.png",
+      "lang": "Romania"
+},{
+      "name": "Radio Craiova",
+      "url": "http://stream2.srr.ro:8370/listen.pls?sid=1",
+      "icon": "./logos/radio/oltenia-craiova.png",
+      "lang": "Romania"
+},{
+      "name": "Favorit FM",
+      "url": "http://91.250.252.251:8001/listen.pls",
+      "icon": "./logos/radio/favorit-fm.png",
+      "lang": "Romania"
+}
+]
+}
